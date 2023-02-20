@@ -1,4 +1,3 @@
-<p align="center">Test it out -https://praveen141219.github.io/todolist/</p>
 
 
 <h1 align="center">Hi 👋, I'm Praveen Yadav</h1>
